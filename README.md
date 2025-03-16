@@ -1,5 +1,7 @@
 Projeto criado para elaborar Pipeline de dados utilizando como fonte a API Open Brewery DB, passando por uma série de processos que elaboraram as camadas Bronze (dados brutos e padronizados), Prata (dados submetidos a limpezas e ajustes) e Ouro (dados prontos para consumo).
 
+O objetivo final foi preparar um ambiente que recebe os dados brutos e os preparam para serem utilizados na montagem de relatórios/dashboards em ferramentas de DataViz (Power BI, Looker Studio, Tableau, etc.)
+
 Este projeto utilizou os seguintes recursos:
 
 Spark: Para lapidação e trabalhos de grande volume de dados (Big Data)
