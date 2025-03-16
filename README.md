@@ -4,12 +4,17 @@ O objetivo final foi preparar um ambiente que recebe os dados brutos e os prepar
 
 Este projeto utilizou os seguintes recursos:
 
-Spark: Para lapidação e trabalhos de grande volume de dados (Big Data)
-PySpark: Biblioteca do Python para trabalhar com as funções do Spark
-Azure Data Lake: Para o armazenamento dos dados 
-Databricks: Usado para fazer a orquestração do pipeline, registrando agendamentos, repetições e erros
-GitHub: Serviço responsável por monitorar o versionamento do projeto (armazena histórico de alterações, erc.)
-Fabric: Ecossistema da Microsoft que compila todas as funções necessárias para elaborar o projeto (Pipeline, armazenagem, notebooks para rodar código, etc.)
+- Spark: Para lapidação e trabalhos de grande volume de dados (Big Data)
+
+- PySpark: Biblioteca do Python para trabalhar com as funções do Spark
+
+- Azure Data Lake: Para o armazenamento dos dados 
+
+- Databricks: Usado para fazer a orquestração do pipeline, registrando agendamentos, repetições e erros
+
+- GitHub: Serviço responsável por monitorar o versionamento do projeto (armazena histórico de alterações, etc.)
+
+- Fabric: Ecossistema da Microsoft que compila todas as funções necessárias para elaborar o projeto (Pipeline, armazenagem, notebooks para rodar código, etc.)
 
 Criador do projeto: Samuel Silva da Rocha
 E-mail: rocha.samu.97@gmail.com
