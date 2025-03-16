@@ -17,6 +17,6 @@ Este projeto utilizou os seguintes recursos:
 - Fabric: Ecossistema da Microsoft que compila todas as funções necessárias para elaborar o projeto (Pipeline, armazenagem, notebooks para rodar código, etc.)
 
 Criador do projeto: Samuel Silva da Rocha
-E-mail: rocha.samu.97@gmail.com
-LinkedIn: https://www.linkedin.com/in/samuel-rocha-97
-GitHub: https://github.com/rocha-ss/
+- E-mail: rocha.samu.97@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samuel-rocha-97
+- GitHub: https://github.com/rocha-ss/
